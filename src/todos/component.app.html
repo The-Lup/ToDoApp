@@ -1,0 +1,39 @@
+<section class="todoapp">
+  <header class="header">
+    <h1>Todo List</h1>
+    <!-- Input for adding new todos -->
+    <input
+      id="new-todo-input"
+      class="new-todo"
+      type="text"
+      placeholder="What needs to be done?"
+      autofocus
+    />
+  </header>
+
+  <section class="main">
+    <!-- Checkbox to mark all todos as complete -->
+    <input id="toggle-all" class="toggle-all" type="checkbox" />
+    <label for="toggle-all">Mark all as complete</label>
+
+    <!-- List of todos -->
+    <ul class="todo-list"></ul>
+  </section>
+
+  <footer class="footer">
+    <!-- Pending todos counter -->
+    <span id="pending-count">0 items left</span>
+
+    <!-- Filters: All, Active, Completed -->
+    <div class="filters">
+      <a href="#/" class="selected">All</a>
+      <a href="#/active">Active</a>
+      <a href="#/completed">Completed</a>
+    </div>
+
+    <!-- Button to clear completed todos -->
+    <button id="clear-completed" class="clear-completed">
+      Clear Completed
+    </button>
+  </footer>
+</section>
