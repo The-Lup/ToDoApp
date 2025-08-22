@@ -91,4 +91,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-**The-Lup (JoPim)* – [GitHub](https://github.com/The-Lup)
+**The-Lup (JoPim)** – [GitHub](https://github.com/The-Lup)
