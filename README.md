@@ -44,7 +44,7 @@ modern-todo-list/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/modern-todo-list.git
+git clone https://github.com/The-Lup/ToDoApp.git
 ```
 
 2. Open `index.html` in your preferred browser.
